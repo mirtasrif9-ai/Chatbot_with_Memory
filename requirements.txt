@@ -6,3 +6,4 @@ psycopg[binary]
 sentence-transformers
 pydantic
 numpy
+langchain_community
